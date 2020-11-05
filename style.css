@@ -1,0 +1,133 @@
+{
+	margin:0;
+    padding:0;
+}
+/*header section*/
+
+header{}
+.header-content{
+	width:100%;
+	height:130px;
+	background-color:#FC766AFF;
+	display:inline-block;
+}
+.logo{
+	width:30%;
+	height:130px;
+	float:left;
+}
+.logo img{
+	width:50%;
+}
+.header-menu{
+	width:70%;
+	height:130px;
+	float:right;
+}
+.header-menu ul{
+	list-style:none;
+	margin:19px 40px;
+}
+.header-menu ul li{
+	float:left;
+	color:purple;
+	margin:25px;
+	font-size:30px;
+	background-color:yellow;
+	border:3px solid green;
+	border-radius:10px;
+}
+/* banner section */
+
+.banner{
+	width:100%;
+	height:800px;
+	background-image:url(images/banner.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.container{
+	width:80%;
+    margin:0 auto;
+}
+.banner-text{
+	display:inline-block;
+	margin-top:10%;
+	background-color:rgba(0,0,0,.6);
+	height:500px;
+	padding:50px;
+	width:40%;
+	border-radius:95px;
+}
+.banner-text h1{
+	color:white;
+	font-size:36px;
+	text-align:left;
+}
+.banner-text p{
+	color:white;
+	font-size:20px;
+	margin-top:10%;
+	font-style:italic;
+}
+.btn{
+	background-color: rgb(0, 0, 255);
+	border:none;
+    padding: 10px 20px;
+    margin-top: -5px;
+    font-size: 20px;
+    border-radius:25px;
+}
+.btn a{
+	text-decoration: none;
+	color:white;
+	font-size:16px;
+}
+.banner-text{
+    display:inine-block;
+	margin-top:10%;
+	background-color:rgba(0,0,0,.6);
+	height:500px;
+	padding:50px;
+	width:40%;
+	border-radius:95px;
+}
+.banner-text h1{
+	color:white;
+	font-size:36px;
+	text-align:left;
+}
+.banner-text ul{
+	color:white;
+	font-size:20px;
+	margin-top:10%;
+	font-style:italic;       
+}
+
+/* about section */
+
+.about-us{
+	height:100%;
+	width:400px;
+	display:inline-block;
+}
+.about-text{
+	width:40%;
+	height:200px;
+	display:inline-block;
+}
+	
+.about-text h1{
+}
+.about-text p{	
+}
+.about-image{
+	width:40%;
+	height:200px;
+	display:inline-block;
+}
+.about-image img{}
+
+
+
+
